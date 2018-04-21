@@ -3846,7 +3846,7 @@ blockquote {
     display: block;
     /*background: linear-gradient(#fbd613, #ffd700, #fbd613);*/
     background: url(../imgs/btn.png) repeat-x center #ffcc00;
-    background-color: #000;
+    background-color: #363636;
     width: 30.98%;
     margin:  1%;
     border-right: 1px solid #ffffff;
@@ -3893,7 +3893,8 @@ blockquote {
 
 .logoer {
     display: block;
-    text-align: center
+    text-align: center;
+    
 }
 
 .logoer img {
@@ -3972,8 +3973,7 @@ blockquote {
 .four-squares .blocks {
     color: #08233e;
     background: url(../imgs/btn.png) repeat-x center #ffcc00;
-    background-color: rgba(255, 221, 86, 0.79);
-    background-color: black;
+    background-color: #363636;
     border: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
     border-bottom: 1px solid #9f9f9f;
